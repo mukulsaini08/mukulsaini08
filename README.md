@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mukul from India, and I am still studying Engineering Physics. I really enjoy learning different languages and frameworks.
+I'm Mukul from India, and I have completed my engineering from Delhi Technological University. I really enjoy learning different languages and frameworks.
 
 
 ## 🌐 Socials:
